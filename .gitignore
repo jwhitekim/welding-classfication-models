@@ -1,0 +1,19 @@
+# Python이 생성하는 캐시 폴더
+__pycache__/
+
+# Visual Studio Code 개인 설정 폴더
+.vscode/
+
+# 대용량 데이터셋 폴더
+dataset/
+
+# 프로젝트 리소스 폴더
+resource/
+
+# 임시 생성되는 CSV 파일
+*.csv
+
+# 학습 이력 등 바이너리 파일
+*.pkl
+
+checkpoints
